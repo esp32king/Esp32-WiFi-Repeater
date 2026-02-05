@@ -31,7 +31,7 @@ A simple ESP32 project that allows your ESP32 to act as a Wi-Fi repeater.
    const char* sourcePassword = "Your_WiFi_Password";
    ```
 
-   ### WARNING
+   ### ⚠️ WARNING
    This is only for educational purpose don't misuse of it. otherwise you w'll be responsible for that
 
 
