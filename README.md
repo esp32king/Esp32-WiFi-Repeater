@@ -29,3 +29,9 @@ A simple ESP32 project that allows your ESP32 to act as a Wi-Fi repeater.
    ```cpp
    const char* sourceSSID = "Your_Source_WiFi";
    const char* sourcePassword = "Your_WiFi_Password";
+   ```
+
+   This is only for educational purpose don't misuse of it. otherwise you w'll be responsible for that
+
+
+
